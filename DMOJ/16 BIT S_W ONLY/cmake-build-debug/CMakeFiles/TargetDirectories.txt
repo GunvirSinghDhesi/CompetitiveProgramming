@@ -1,0 +1,3 @@
+/Users/gunvird/Desktop/untitled folder/cp/DMOJ/16 BIT S:W ONLY/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gunvird/Desktop/untitled folder/cp/DMOJ/16 BIT S:W ONLY/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gunvird/Desktop/untitled folder/cp/DMOJ/16 BIT S:W ONLY/cmake-build-debug/CMakeFiles/16_BIT_S_W_ONLY.dir

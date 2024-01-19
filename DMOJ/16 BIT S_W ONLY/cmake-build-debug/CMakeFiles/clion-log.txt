@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja "/Users/gunvird/Desktop/untitled folder/cp/DMOJ/16 BIT S:W ONLY"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/gunvird/Desktop/untitled folder/cp/DMOJ/16 BIT S:W ONLY/cmake-build-debug
